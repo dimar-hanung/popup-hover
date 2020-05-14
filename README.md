@@ -1,6 +1,6 @@
-# popup-simple
-sebuah popup dengan penggunaan mudah
-
+# popup-hover
+Sebuah popup dengan penggunaan mudah
+Membutuhkan Jquery
 
 ## method 1 before 
 
