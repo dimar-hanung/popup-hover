@@ -1,4 +1,4 @@
-   .popup-content-box,.popup-content {
+.popup-content {
         display: none;
         position: absolute;
         padding: 5px;
@@ -12,11 +12,6 @@
         overflow-wrap: break-word;
 
     }
-
-    .pBox .ptc {
-        transform: translate(200%, -200%);
-    }
-
     @keyframes pShow {
         0% {
             filter: opacity(0);
@@ -27,11 +22,4 @@
         }
     }
 
-    .pBox {
-        width: max-content;
-    }
-
-    .pBox[data-bg='tekan'] {
-        background: red;
-        padding: 2px;
-    }
+ 
